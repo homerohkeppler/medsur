@@ -52,7 +52,9 @@ function loL(id){
         Loads[id] = 1;
         //alert("si");
 		var strWindowFeatures = "location=no,height=570,width=520,scrollbars=yes,status=yes";
-		var URL = "http://infinitymedialab.net/clientes/CFDIs/" + id;
+		//var URL = "http://infinitymedialab.net/clientes/CFDIs/" + id;
+				var URL = "https://cfdi-e48c292e4419.herokuapp.com/CFDIs/" + id;
+
 		var win = window.open(URL, "_blank", strWindowFeatures);
         // Escribes esta línea si quieres q se active en 3 seg.
         //setTimeout("delete(Loads["+id+"])",3000)
@@ -76,7 +78,7 @@ function loL(id){
            
 <a onclick="loL(this.id)" id="procesarCFDIs.php" title="procesarCFDIs.php" >
             <button class="btn btn-warning cancel" type="button"><i class="glyphicon glyphicon-upload"></i>
-                <span>Procesar CFDIs</span></button>
+                <span>Procesar CFDIs en Heroku</span></button>
 </a>
 
   
