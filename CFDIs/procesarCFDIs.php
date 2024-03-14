@@ -14,7 +14,7 @@ HXMMK8sPcUSMPCKBEZPVKt3XO
 */
 echo "hola angel";
 
-exit();
+//exit();
 
 define("SOAP_CLIENT_BASEDIR", "Toolkit20/soapclient");
 require_once (SOAP_CLIENT_BASEDIR.'/SforcePartnerClient.php');
