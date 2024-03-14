@@ -16,7 +16,9 @@ echo "Febrero2024fcW8qmZMD28Lqu83mY6RveZV exith";
 
 define("SOAP_CLIENT_BASEDIR", "Toolkit20/soapclient");
 require_once (SOAP_CLIENT_BASEDIR.'/SforcePartnerClient.php');
+echo "angel again";
 echo "<pre>";
+$log=SOAP_CLIENT_BASEDIR;
 try {
 	$mySforceConnection = new SforcePartnerClient();
 	//$mySforceConnection->setEndpoint('https://test.salesforce.com/services/Soap/c/52.0');
