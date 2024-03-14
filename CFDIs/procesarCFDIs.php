@@ -1,18 +1,16 @@
 <?php 
 
 $USERNAME='sistemas@medsur.mx';
-$PASSWORD='Noviembre2023P9d5RVAswYC8w7qTeuMp1Hze';
-$TOKEN='P9d5RVAswYC8w7qTeuMp1Hze';
-/*
-sistemas@medsur.mx 
-Agosto2023
-
-TOKEN:
-HXMMK8sPcUSMPCKBEZPVKt3XO
+$PASSWORD='Febrero2024fcW8qmZMD28Lqu83mY6RveZV';
+$TOKEN='fcW8qmZMD28Lqu83mY6RveZV';
 
 
-*/
-echo "hola angel sin exith";
+
+
+
+
+
+echo "Febrero2024fcW8qmZMD28Lqu83mY6RveZV exith";
 
 //exit();
 
