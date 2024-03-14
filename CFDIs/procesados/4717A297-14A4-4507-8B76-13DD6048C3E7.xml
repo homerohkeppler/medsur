@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="ITZA_C1_FA" Folio="418208" Fecha="2023-12-12T12:42:42" TipoDeComprobante="I" Exportacion="01" FormaPago="99" MetodoPago="PPD" NoCertificado="00001000000505494975" SubTotal="2900.55" Descuento="0.00" TipoCambio="1" Moneda="MXN" Total="2940.00" LugarExpedicion="97000" Sello="dtXP1/cr6uYckqovQOqxFxVZCOC1IBs2aOA4SKZr8ya581QgIJ4E2pRImihIAsUwK+HCsXl5uJ2pe9bTugmV4NrkSEUDRdJ3h/5KZRtREcLx1Ni0GtnNFAwx8RSMOcEOdKgexgwShUYPhi+jcKcySTLlkapLa6b8R9x4XBvh+HZuF67LUgrX7uL5FVN6nH25GcE8nkxsiGE419EMHoktzuGKpok+VB0VLcG2xto+NyqzD1DZ37mGLWN70jQe754OfFE0+DP42o5ntRLS8apNd03+gm/fggjfGJRxlOApvLubr1Hf7DZObxcuz36JnSjP3MmjRuItk/UVeXSyfTbxjw==" Certificado="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">
+	<cfdi:Emisor Rfc="DMC160914LC3" Nombre="DISTRIBUIDORA DE MEDICAMENTOS CIFLO" RegimenFiscal="601" />
+	<cfdi:Receptor UsoCFDI="G01" Rfc="FUM201218TD7" Nombre="FARMACIAS UNIVERSITARIAS MID" DomicilioFiscalReceptor="97113" RegimenFiscalReceptor="601" />
+	<cfdi:Conceptos>
+		<cfdi:Concepto ClaveProdServ="53131613" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" ObjetoImp="02" NoIdentificacion="7503016108072" Descripcion="TOPIDERM D EMULSION 60ML" ValorUnitario="246.55" Descuento="0.00" Importe="246.55">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="246.55" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="39.45" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="51181500" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" ObjetoImp="02" NoIdentificacion="7501165011977" Descripcion="SOLIQUA 100U INY 33MCG/3ML C 1 (R)" ValorUnitario="1165.50" Descuento="0.00" Importe="2331.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="2331.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="51181722" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" ObjetoImp="02" NoIdentificacion="7502213042790" Descripcion="FHISFLUNAL AER 50UG 60 DOSIS FLUTICASONA (S)" ValorUnitario="323.00" Descuento="0.00" Importe="323.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="323.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos TotalImpuestosTrasladados="39.45">
+		<cfdi:Traslados>
+			<cfdi:Traslado Base="246.55" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="39.45" />
+			<cfdi:Traslado Base="2654.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" RfcProvCertif="CCF1011111K9" SelloSAT="uKDGVlhYER+QwkUO4SX4yA0WiNdUbnYoOaPkDU4ODcvHy+mvIA8UeGFIlJDNYL+tMnnjVOB7/7u0PNvEVGJVrLnTYmhQ9tFTXbtykoN0CpiGIzoTsQ+wpsRW+Ags94C6mudrCYZ5PpYh2nL3ekuwkW6vsLp4irGIUVV1Ha97OWvIo+jP3R4Gk1fXnyJxOef9UxJtYTJ0I2TvR0gVSb+TR9jRQfxU26lJRjc+GfNzB8TKqGcRvWlMXslm5oRXvfkxqEiZoH68UhMg0ymEZ7w1Y7pWJnPB3yj6pCo5utZBhD9uskRDZfaba4zJwSeC4n8bxsv49nFskETesB6gsGMPBQ==" NoCertificadoSAT="00001000000508341381" FechaTimbrado="2023-12-12T13:55:48" UUID="4717A297-14A4-4507-8B76-13DD6048C3E7" SelloCFD="dtXP1/cr6uYckqovQOqxFxVZCOC1IBs2aOA4SKZr8ya581QgIJ4E2pRImihIAsUwK+HCsXl5uJ2pe9bTugmV4NrkSEUDRdJ3h/5KZRtREcLx1Ni0GtnNFAwx8RSMOcEOdKgexgwShUYPhi+jcKcySTLlkapLa6b8R9x4XBvh+HZuF67LUgrX7uL5FVN6nH25GcE8nkxsiGE419EMHoktzuGKpok+VB0VLcG2xto+NyqzD1DZ37mGLWN70jQe754OfFE0+DP42o5ntRLS8apNd03+gm/fggjfGJRxlOApvLubr1Hf7DZObxcuz36JnSjP3MmjRuItk/UVeXSyfTbxjw==" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+	</cfdi:Complemento>
+</cfdi:Comprobante>

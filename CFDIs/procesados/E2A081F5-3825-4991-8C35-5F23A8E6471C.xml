@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:leyendasFisc="http://www.sat.gob.mx/leyendasFiscales" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="4.0" Serie="ACHBU" Folio="373320" Fecha="2024-01-13T23:59:00" Sello="DHRLBMDlm2Ts13dn+CQNmIAtXawJDA0hscw08Ok+1M/m6PC5Q/32kniMMoI4LplWkLSUhJorh+kLZZu7O9NA7y2CJGam6jP5lD3BMZ9iI1K36frl0hI203RlYSH9U6cv7HKWEy5LaCJawmJKmCof140cEUVXFEy1FLdv4yuK8kFIbhc735+qacWetLgjZA1cAzcFdesNSg3VbUxKKKu3gFCN7FoC8rZoUnvHaErxw20rLcpqs6fR0U2Js7xDJSX8RVwX2fFowCtXekRsmVIDQDBVowXgQmeCjurk6k2fHc1oKv20XbVP0VQaFyS6iGK/rSa8D0sfiOQoEoQA61hPdg==" FormaPago="01" NoCertificado="00001000000503704219" Certificado="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" CondicionesDePago="CONTADO" SubTotal="513.59" Descuento="0.00" Moneda="MXN" Total="570.00" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="97300" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd http://www.sat.gob.mx/leyendasFiscales http://www.sat.gob.mx/sitio_internet/cfd/leyendasFiscales/leyendasFisc.xsd">
+  <cfdi:Emisor Rfc="BPU7901018D4" Nombre="BEBIDAS PURIFICADAS" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="FUM201218TD7" Nombre="FARMACIAS UNIVERSITARIAS MID" DomicilioFiscalReceptor="97113" RegimenFiscalReceptor="601" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="50202306" NoIdentificacion="120" Cantidad="1" ClaveUnidad="XBX" Unidad="CJA" Descripcion="(b)Pepsi 600 Ml Pet 12 (7.2Lts)" ValorUnitario="153.448280" Importe="153.448280" Descuento="0.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="153.44828" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="24.55172" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202301" NoIdentificacion="1544" Cantidad="1" ClaveUnidad="XBX" Unidad="CJA" Descripcion="Epura 1 L Pet 12" ValorUnitario="161.000000" Importe="161.000000" Descuento="0.000000" ObjetoImp="03" />
+    <cfdi:Concepto ClaveProdServ="50202300" NoIdentificacion="3178" Cantidad="2" ClaveUnidad="XBX" Unidad="CJA" Descripcion="(b)Cosecha Pura Manzana 1 Lts Pet 6 (6Lts)" ValorUnitario="99.568970" Importe="199.137940" Descuento="0.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="199.13794" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="31.86207" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="56.41">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="352.59" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="56.41" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <leyendasFisc:LeyendasFiscales version="1.0">
+      <leyendasFisc:Leyenda disposicionFiscal="LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS" norma="ARTÍCULO 1 Y ARTICULO 2 INCISO G" textoLeyenda="(b) Incluye IEPS de bebidas saborizadas con azucares añadidos. " />
+    </leyendasFisc:LeyendasFiscales>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" Version="1.1" UUID="E2A081F5-3825-4991-8C35-5F23A8E6471C" FechaTimbrado="2024-01-14T00:31:45" RfcProvCertif="SAS790709F92" SelloCFD="DHRLBMDlm2Ts13dn+CQNmIAtXawJDA0hscw08Ok+1M/m6PC5Q/32kniMMoI4LplWkLSUhJorh+kLZZu7O9NA7y2CJGam6jP5lD3BMZ9iI1K36frl0hI203RlYSH9U6cv7HKWEy5LaCJawmJKmCof140cEUVXFEy1FLdv4yuK8kFIbhc735+qacWetLgjZA1cAzcFdesNSg3VbUxKKKu3gFCN7FoC8rZoUnvHaErxw20rLcpqs6fR0U2Js7xDJSX8RVwX2fFowCtXekRsmVIDQDBVowXgQmeCjurk6k2fHc1oKv20XbVP0VQaFyS6iGK/rSa8D0sfiOQoEoQA61hPdg==" NoCertificadoSAT="00001000000518507243" SelloSAT="HQqFtnWU/lqav/du7U9Y9v6kVlhcDDUz7U+mpPsdsPpMpASh2DdJqFuz7I/mdfCCRtIkSPbWK6NcxunGli9UVbQNChrD0DyR5iQzszSM3uzdpq/I+CknuVujSSzFqUPI9Y8wsGhA4ayHBNx+XFGmkhn+9cSkVQcuZsax4LbJWU7l31Cd4UJxiW3fUxDiKCLy8X9VnjJT0BaW1FmhRTZHIguc5zYH9lUIqEATI9i+9CFf9LfyizjZYmvBSP25oIYqotg1F60M9jWthf7jO7xbnx3VNRMo3WfM2QTOirBVzjd8cVik4cnv80NMVdGoFHNTdz63lUGCOmmh+wsZSrf8vQ==" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

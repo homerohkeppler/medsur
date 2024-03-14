@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?><cfdi:Comprobante Certificado="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" Descuento="52.50" Exportacion="01" Fecha="2024-01-20T10:00:19" Folio="094020" FormaPago="04" LugarExpedicion="97229" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000518610822" Sello="gCxD0C4ImB1v93S4eWhCZb9vXMpA/RhYtbSolzMu1SsMiZ6OL52l73Po9JTBVoOSQsTwrrxdetwKbdDBALhg8uOexSsvYULztzz+VhzTlYXi34m9fUpdqG/IIV9tnwEckeBQkRrcs2YqztYZgzJdNbed5cZZpGiJ1cbEuAuT9p8DpBgs1LF3SZOCFr1X4GgCgYz32i5C4Q2lvewB9lHRaykzjodCJKHI7tDAEULEYnn/pY4YA14hPVNHSUG3zibJen0pEBO5350i/gvyUrW22CmG+D23lo6qA4Fg4MP1kSAKKNzk0om5Wv8xE9ioerZcP0v4IO/Flr6ndY1NWpe/sA==" Serie="7245" SubTotal="227.93" TipoDeComprobante="I" Total="203.50" Version="4.0" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:dvz="http://www.diverza.com/ns/addenda/diverza/1" xmlns:fm="http://facturame.mx/ns/addenda/1" xmlns:pago20="http://www.sat.gob.mx/Pagos20" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd">
+    <cfdi:Emisor Nombre="AUTOZONE DE MEXICO" RegimenFiscal="601" Rfc="AME970109GW0" /><cfdi:Receptor DomicilioFiscalReceptor="97302" Nombre="AMASALUD" RegimenFiscalReceptor="601" Rfc="AMA200715MW6" UsoCFDI="G03" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" />
+    <cfdi:Conceptos>
+        <cfdi:Concepto Cantidad="1.000000" ClaveProdServ="47131600" ClaveUnidad="H87" Descripcion="PE 5024  Escoba de Goma" Descuento="25.76" Importe="94.07" NoIdentificacion="399775" ObjetoImp="02" ValorUnitario="94.070000">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="68.310000" Importe="10.93" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.000000" ClaveProdServ="47131603" ClaveUnidad="H87" Descripcion="PE 2213   CZZI BONE SPON" Importe="36.21" NoIdentificacion="24625" ObjetoImp="02" ValorUnitario="36.210000">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="36.210000" Importe="5.79" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.000000" ClaveProdServ="47131500" ClaveUnidad="H87" Descripcion="895800  ESCOBILLA PARA L" Descuento="26.74" Importe="97.65" NoIdentificacion="250737" ObjetoImp="02" ValorUnitario="97.650000">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="70.910000" Importe="11.35" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos TotalImpuestosTrasladados="28.07">
+        <cfdi:Traslados>
+            <cfdi:Traslado Base="175.43" Importe="28.07" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="0fd187b9-c3a2-4a43-9ea4-166248c6b469" RfcProvCertif="SNF171020F3A" FechaTimbrado="2024-01-20T10:00:21" SelloCFD="gCxD0C4ImB1v93S4eWhCZb9vXMpA/RhYtbSolzMu1SsMiZ6OL52l73Po9JTBVoOSQsTwrrxdetwKbdDBALhg8uOexSsvYULztzz+VhzTlYXi34m9fUpdqG/IIV9tnwEckeBQkRrcs2YqztYZgzJdNbed5cZZpGiJ1cbEuAuT9p8DpBgs1LF3SZOCFr1X4GgCgYz32i5C4Q2lvewB9lHRaykzjodCJKHI7tDAEULEYnn/pY4YA14hPVNHSUG3zibJen0pEBO5350i/gvyUrW22CmG+D23lo6qA4Fg4MP1kSAKKNzk0om5Wv8xE9ioerZcP0v4IO/Flr6ndY1NWpe/sA==" NoCertificadoSAT="00001000000518812364" SelloSAT="E8gu1o5cAdoS364YDGbaCDHWtb8SfQHnKkuwCJwXOuFmvpQDB94+oWtZKIe8WMLqRRoViWf5AV+QIM4AY6K+P33bWe2e1ACYZWBnkyxq8NlUeqryNrnWRC+HjZeU3qlz3TqJhZ5PPlHDbiRTgTl/hxpeBiBP3ceBQC3T/eFFnTuZQzrwRapI91J10MSRyRAVLdQohL7CQIyqRWOFwDGeVM2UbgZKoAFgGVLaD3f2j+ukYWx9eoYZfrIgv0WE5GlXAJFxZBzJ1rXenXSbnr+13HPCWN4taaSCtEL497+q2NGRttVI4yEMF0vzhgCVkm4HwntvXzFqvJ3VE+EoXeu5rg==" />
+    </cfdi:Complemento>
+</cfdi:Comprobante>

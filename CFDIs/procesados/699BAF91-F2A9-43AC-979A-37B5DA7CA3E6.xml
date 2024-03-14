@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="CFDIFCPBA" Folio="32084" Fecha="2024-01-19T17:44:07" Sello="dcpYDqVzc5iFi8pcapIRX0iZiZxilw58euqraj5zEi8A3pWmb1K7aogrG4Duke/xih1MEuMdw2JpKoP5wk8EdoDC5uIKlIBkGkQHHdpLo+izD5RQqtzpbrb4vOMIBtyYxn6xQfWz1DyMn/U0ddbnd8juvI5kzBMJ0HMvRGxoUiXtKr4bUokolfSWs3qKgCkDIifv/jkrFGQ654B1GDM+lKQ2QibXAAjzv/lpp+7Vj//HVA89NQDjGTk26AW+Vmbfy8BH08YmsLL3DHxCNIwqZxm4kdclDnYA3i5Zz+Zb9HKUQvXc5B987dNaW9x0rX6t0ZC7bFiXrc/7LIKz5cT7LA==" FormaPago="03" NoCertificado="00001000000505878913" Certificado="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" SubTotal="80488.00" Moneda="MXN" TipoCambio="1" Total="93366.08" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="72370">
+  <cfdi:Emisor Rfc="EEE830909BM4" Nombre="ESPECIALISTAS EN ESTERILIZACION Y ENVASE" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="AMA200715MW6" Nombre="AMASALUD" DomicilioFiscalReceptor="97302" RegimenFiscalReceptor="601" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="42281904" NoIdentificacion="PAR035" Cantidad="30.00" ClaveUnidad="XBX" Unidad="CAJA 500" Descripcion="BOLSA PARA ESTERILIZAR DE PAPEL GRADO MEDICO DE 25 X 38 X 8 CM. CON HILO, MARCA PMG. PRESENTACION ESPECIAL" ValorUnitario="1034.00" ObjetoImp="02" Importe="31020.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="31020.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4963.20" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42281904" NoIdentificacion="PAR028" Cantidad="20.00" ClaveUnidad="XBX" Unidad="CAJA 1000" Descripcion="BOLSA PARA ESTERILIZAR DE PAPEL GRADO MEDICO DE 12 X 26 X 4 CM. CON HILO, MARCA PMG." ValorUnitario="771.00" ObjetoImp="02" Importe="15420.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="15420.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2467.20" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42281904" NoIdentificacion="PAR032" Cantidad="20.00" ClaveUnidad="XBX" Unidad="CAJA 1000" Descripcion="BOLSA PARA ESTERILIZAR DE PAPEL GRADO MEDICO DE 18 X 33 X 6 CM. CON HILO, MARCA PMG." ValorUnitario="1260.00" ObjetoImp="02" Importe="25200.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="25200.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4032.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42281904" NoIdentificacion="PAR026" Cantidad="16.00" ClaveUnidad="XBX" Unidad="CAJA 1000" Descripcion="BOLSA PARA ESTERILIZAR DE PAPEL GRADO MEDICO DE 7.5 X 23 X 4 CM. CON HILO, MARCA PMG." ValorUnitario="553.00" ObjetoImp="02" Importe="8848.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="8848.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1415.68" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="12878.08">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="80488.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="12878.08" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="699BAF91-F2A9-43AC-979A-37B5DA7CA3E6" FechaTimbrado="2024-01-19T17:46:38" RfcProvCertif="SFE0807172W8" SelloCFD="dcpYDqVzc5iFi8pcapIRX0iZiZxilw58euqraj5zEi8A3pWmb1K7aogrG4Duke/xih1MEuMdw2JpKoP5wk8EdoDC5uIKlIBkGkQHHdpLo+izD5RQqtzpbrb4vOMIBtyYxn6xQfWz1DyMn/U0ddbnd8juvI5kzBMJ0HMvRGxoUiXtKr4bUokolfSWs3qKgCkDIifv/jkrFGQ654B1GDM+lKQ2QibXAAjzv/lpp+7Vj//HVA89NQDjGTk26AW+Vmbfy8BH08YmsLL3DHxCNIwqZxm4kdclDnYA3i5Zz+Zb9HKUQvXc5B987dNaW9x0rX6t0ZC7bFiXrc/7LIKz5cT7LA==" NoCertificadoSAT="00001000000505619865" SelloSAT="VglMELWaF34WRRu3XEGlLtzotqf28VPR2oUtyo9IfNEePOHZUl6QGKXqd+RjL3FPSi/s9i3PavdDQg7LsyugjGzbuZYj+JgQP0YJpvGYmH8VQnswWh4JgF4K3/9IBpwJo0XdaugI6P4wP7yrgH90V6hUgCPFGE6oMP98bxeJu5djHpzdpz5QwIDOrN+xw9b6Dw2eDeR7oM7v+jMyUq7F/9u8CjjxFJtJqXWORzB8KJSTtXO0DqEN5eha9w90IyjYxJpMWKbeIcllxmfRHeCRP/twmtcTGD0u2rhalbWBcuiVLhT2CIN/4QMZdQz3etFnGmvStG1+7Zenrx2rh2GzFQ==" /></cfdi:Complemento></cfdi:Comprobante>

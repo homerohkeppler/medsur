@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="X" Folio="141373" Fecha="2023-12-21T10:42:11" Sello="Rr0dKixPA7vbapOdtWIpVaHM/0tbOAPhHGwm2ZYc9sW53dJaLd9OnS0jIBtEbss+o5dPOe801l4zPGXA/H9/OJr7ILVYd77q5uyM7P9evhE/VJxOoVcS9o8XWjqUKp12qyPjvzp0/uZWKgEr1WF3lnwnNhhN1PE2kO38cz7wfy7i39p/h3nrvpkZqT63lLROnV6Q0CcifA8/uKi6xYlaZoiM843OJqeXKB2Yr78iJPix23kF2Z+g1DGVmkM4dK2b6/OajX9vo5xgbw+iBvENX2Femk5mM2sMJbFfMT8DtCs+iihEqee0vZSQdWtQNkXSR5KLBhvbmeFgkk0f99rdkg==" FormaPago="03" NoCertificado="00001000000506685623" Certificado="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" CondicionesDePago="Pago en una sola exhibición" SubTotal="9475.86" Moneda="MXN" Total="10992.00" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="97000">
+  <cfdi:Emisor Rfc="AHS92042886A" Nombre="ABASTECEDOR HOSPITALARIO DEL SURESTE" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="AMA200715MW6" Nombre="AMASALUD" DomicilioFiscalReceptor="97302" RegimenFiscalReceptor="601" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="42295006" NoIdentificacion="709" Cantidad="5" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="SONDA GASTROINTESTINAL TIPO  LEVIN 12 FR - SILICEO" ValorUnitario="9.051724" Importe="45.26" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="45.26" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7.2416" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42295006" NoIdentificacion="712" Cantidad="5" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="SONDA GASTROINTESTINAL TIPO  LEVIN 14 FR - SILICEO" ValorUnitario="9.051724" Importe="45.26" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="45.26" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7.2416" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42271912" NoIdentificacion="710" Cantidad="4" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="SONDA GASTROINTESTINAL TIPO LEVIN 16 FR - SILICEO" ValorUnitario="9.051724" Importe="36.21" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="36.21" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.7936" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42211502" NoIdentificacion="EM100102D" Cantidad="5" ClaveUnidad="PR" Unidad="PAR" Descripcion="MULETA AXILAR ALUMINIO MEDIANA - EKO MOBILITY" ValorUnitario="387.931034" Importe="1939.66" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1939.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="310.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42271717" NoIdentificacion="AC401" Cantidad="10" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="AEROCAMARA PREMIUM ADULTO AEROSPACER - VITALCARE" ValorUnitario="422.413793" Importe="4224.14" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="4224.14" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="675.8624" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42182100" NoIdentificacion="B2-4" Cantidad="4" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="BAUMANOMETRO ANEROIDE ECO NEGRO - CHECKATEK" ValorUnitario="376.724138" Importe="1506.90" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1506.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="241.104" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42181800" NoIdentificacion="FS10E" Cantidad="3" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="OXIMETRO PULSO DEDO PAN LED INHALACARE -HOMECARE" ValorUnitario="343.96" Importe="1031.88" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1031.88" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="165.1008" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="46182205" NoIdentificacion="STN-MED" Cantidad="3" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="SOPORTE P/TOBILLO NEOPRENO MEDIANA - MEDIPAR" ValorUnitario="215.517241" Importe="646.55" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="646.55" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="103.448" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="1516.14">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="9475.86" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1516.14" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="A9A1795B-A3A3-AA44-BEF7-271E62FFDA23" FechaTimbrado="2023-12-21T10:42:53" RfcProvCertif="SCD110105654" SelloCFD="Rr0dKixPA7vbapOdtWIpVaHM/0tbOAPhHGwm2ZYc9sW53dJaLd9OnS0jIBtEbss+o5dPOe801l4zPGXA/H9/OJr7ILVYd77q5uyM7P9evhE/VJxOoVcS9o8XWjqUKp12qyPjvzp0/uZWKgEr1WF3lnwnNhhN1PE2kO38cz7wfy7i39p/h3nrvpkZqT63lLROnV6Q0CcifA8/uKi6xYlaZoiM843OJqeXKB2Yr78iJPix23kF2Z+g1DGVmkM4dK2b6/OajX9vo5xgbw+iBvENX2Femk5mM2sMJbFfMT8DtCs+iihEqee0vZSQdWtQNkXSR5KLBhvbmeFgkk0f99rdkg==" NoCertificadoSAT="00001000000702501858" SelloSAT="YxlI3Blx3NgtFVb5F70QovQlKd9yID6FYUfKNgMoOdvfM4TeS8BoKuYnL5ggtiLj+zYdgVGQTKAmOia2gd2EaEwWlIVPsnVlMkONYat+SuIhMn2PxrJw2G31CNjkPklAKnGUoXhccJjT/tDUcupBG3GfxwwozEr/5nomznrEgU/70OnbTbs31m4mOkbTwOv+JgMaVtP7QWEASYw4s4wlU6zazf3uANzE7lm4/EJMGEIBMxB/MwOgx1lqS93VM9aqCG3F5jdAFFZv+xI4TqJqrTfGUMeTqBe/TwGAlDPBot36hhKSBG3KD+MIbc60tuDkbFB97sbXxcDvzskS7Rr5BA==" />
+</cfdi:Complemento></cfdi:Comprobante>

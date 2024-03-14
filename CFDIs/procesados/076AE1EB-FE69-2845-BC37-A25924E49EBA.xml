@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="X" Folio="141481" Fecha="2023-12-28T08:11:52" Sello="F4d7JYnit4/JcXOJk6l/D1KwMjhw91mbCjy8BMPTxUJP1L4TJAjKyCP4QKw9b0RFk6dHpJ4Xn46fS95r1NimVC10SjwSs0qfVgrpfeG14UxOXNf5oM7KwT61kSfbHaR/XHWgGWQW1Es4j0B8T1X4dP9K5KNLM7TXtdQLyCwqtBwhzcnILpQxwPxpbB6N+IvJMqrV22iOGKtbAiDOicqazhvRaMGUNbo8IHOYIFx2RZEri1wH0WhTWQBMIb0XZHQIL+1s9nLg/LnfJzCIKnsPVu7gOwRpltaaW4SDaqxo4xsC1u81MHEHjpSSVfGhQHctmU/wM+ETQG25tMUQY84HUQ==" FormaPago="03" NoCertificado="00001000000506685623" Certificado="MIIGMzCCBBugAwIBAgIUMDAwMDEwMDAwMDA1MDY2ODU2MjMwDQYJKoZIhvcNAQELBQAwggGEMSAwHgYDVQQDDBdBVVRPUklEQUQgQ0VSVElGSUNBRE9SQTEuMCwGA1UECgwlU0VSVklDSU8gREUgQURNSU5JU1RSQUNJT04gVFJJQlVUQVJJQTEaMBgGA1UECwwRU0FULUlFUyBBdXRob3JpdHkxKjAoBgkqhkiG9w0BCQEWG2NvbnRhY3RvLnRlY25pY29Ac2F0LmdvYi5teDEmMCQGA1UECQwdQVYuIEhJREFMR08gNzcsIENPTC4gR1VFUlJFUk8xDjAMBgNVBBEMBTA2MzAwMQswCQYDVQQGEwJNWDEZMBcGA1UECAwQQ0lVREFEIERFIE1FWElDTzETMBEGA1UEBwwKQ1VBVUhURU1PQzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMVwwWgYJKoZIhvcNAQkCE01yZXNwb25zYWJsZTogQURNSU5JU1RSQUNJT04gQ0VOVFJBTCBERSBTRVJWSUNJT1MgVFJJQlVUQVJJT1MgQUwgQ09OVFJJQlVZRU5URTAeFw0yMTAzMDgxNjU3MjVaFw0yNTAzMDgxNjU3MjVaMIIBADE2MDQGA1UEAxMtQUJBU1RFQ0VET1IgSE9TUElUQUxBUklPIERFTCBTVVJFU1RFIFNBIERFIENWMTYwNAYDVQQpEy1BQkFTVEVDRURPUiBIT1NQSVRBTEFSSU8gREVMIFNVUkVTVEUgU0EgREUgQ1YxNjA0BgNVBAoTLUFCQVNURUNFRE9SIEhPU1BJVEFMQVJJTyBERUwgU1VSRVNURSBTQSBERSBDVjElMCMGA1UELRMcQUhTOTIwNDI4ODZBIC8gQkFHSjQ2MDkxNTlLQTEeMBwGA1UEBRMVIC8gQkFHSjQ2MDkxNUhZTlJOUTAxMQ8wDQYDVQQLEwZNQVRSSVowggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQChB8CEQrZYGErsCDScIvlYVq7tI4ZQ7+wPZji0e5hFuyognaDKHiY8t6FNvntLtFujz4vZ3pIsdbpUMURLFy7rh1YmMqKCkgnfk6qaBeIu7y0b9DpYOvRAZjxPkL3msy4NVHpyL1/s65tbzo/HfwDr0rTSoHE1bTzlKvKHnKxOVTD3HpYT3Rn/vbqYZQhuDJrbgAiimB8w2+0eZ8HQFpvC3SndSoSS49oyv4BOGFIyxc2FwWpihKV348WoECh0ERWsurJB+cOPJE7koIFXKkUNh+lA/jZFF00qTuQFj3NjD+LG/iXbWrk93Xr0T2TbT1QtgfRALbUzTvBtr5rwHsKjAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBCwUAA4ICAQB9ja8rruU5Ut6niEcfOn48p1ydFcYE57h9WuTEImGxMhZ05HMPtSaDzOsGjxbRC64SV7ZrcxnhZ1DIBeiZNwkUd07VQIBizyUUVm3Dw245NQnV/fk+KcmbyEN8RZtlp3VqU8Jfyk2zhf31OZWhYDH4qeDYf3x9kR0BS3B/Bv1pn8defRrtUQRxjy7ojCoyeg5WTPLdhg2i4Lp+I4IvpVc7GdpTZYFfWUvkLovluvd04iQ5BcusdhWJzrWX1gOs+WmaeOFXTe0p78qQd42WAmpvT1UdFKaszn+IlSZeSsW23J9ZD+LiWbL7MhSaRcqCo7TjydyF4Cqw7BK6xREbKoPjXyK3/1bm6YepIFEGEe029socN8ZpbfNGuQ4ScJUyVae+Tj78h9eP9bS17tvn5bl+a2U+oMZZyJ/z8sTsjfjo1ZnNHxZ+ilo2nE4x02fm9JYwwrYoctB92mUkkgULbfaDUBdNY7dxDL3tVsey+oqasgzjN1zZ+C8D1Mfer4PfOwX+0218FEC5PiKKMR1B1nzqv/OSmp6jVim8E4/fiiCOChSkuMIM7lFfWtEbHfCgw0YRZ5h3j0eTmKuuGbdAyM2N6djoAedveEiH1l4GLk0vNbA+bIcc8fu2jxKiz4z0mN8t4AYHklxGctniQ7c9UvRJtnsOWDetIgDnmN3Pb0f6Rw==" CondicionesDePago="Pago en una sola exhibición" SubTotal="10603.89" Moneda="MXN" Total="12300.51" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="97000">
+  <cfdi:Emisor Rfc="AHS92042886A" Nombre="ABASTECEDOR HOSPITALARIO DEL SURESTE" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="AMA200715MW6" Nombre="AMASALUD" DomicilioFiscalReceptor="97302" RegimenFiscalReceptor="601" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="42241806" NoIdentificacion="FEM1I-MD" Cantidad="3" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="FERULA FISIOLOGICA PARA MUÑECA IZQUIERDA MEDIANA - MEDIPAR" ValorUnitario="354.310345" Importe="1062.93" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1062.93" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="170.0688" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42142702" NoIdentificacion="8887605148" Cantidad="1" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="DOVER SONDA FOLEY 100% SILIC 14Fr 5cc 2v -CARDINAL" ValorUnitario="207.758621" Importe="207.76" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="207.76" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="33.2416" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42272004" NoIdentificacion="85864" Cantidad="2" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="ESTILETE 10Fr - MEDTRONIC" ValorUnitario="99.137931" Importe="198.28" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="198.28" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="31.7248" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42295006" NoIdentificacion="711" Cantidad="5" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="SONDA GASTROINTESTINAL TIPO  LEVIN 18 FR - SILICEO" ValorUnitario="9.051724" Importe="45.26" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="45.26" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7.2416" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42311708" NoIdentificacion="7144302" Cantidad="2" ClaveUnidad="XRO" Unidad="ROLLO" Descripcion="HYPAFIX 10m X 10cm - BSN" ValorUnitario="473.28" Importe="946.56" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="946.56" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="151.4496" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42211502" NoIdentificacion="EM100103" Cantidad="3" ClaveUnidad="PR" Unidad="PAR" Descripcion="MULETA AXILAR ALUMINIO CHICA - EKO MOBILITY&#xA;MEDIDAS: 94CM - 114CM" ValorUnitario="387.931034" Importe="1163.79" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1163.79" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="186.2064" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42211502" NoIdentificacion="EM100101M" Cantidad="1" ClaveUnidad="PR" Unidad="PAR" Descripcion="MULETA AXILAR ALUMINIO GRANDE - EKO MOBILITY" ValorUnitario="387.931034" Importe="387.93" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="387.93" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="62.0688" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42312100" NoIdentificacion="416422" Cantidad="20" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="BOLSA NATURA+ DREN TRANS C/INVIS 70mm - CONVATEC" ValorUnitario="137.931034" Importe="2758.62" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2758.62" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="441.3792" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42312100" NoIdentificacion="400949" Cantidad="20" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="SUR - FIT  PLUS PLACA STOMAHESIVE C/ARO 70mm - CONVATEC" ValorUnitario="181.034483" Importe="3620.69" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3620.69" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="579.3104" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42182015" NoIdentificacion="WA52432-U" Cantidad="6" ClaveUnidad="XPK" Unidad="PAQ" Descripcion="ESPECULO DESCH PEDIAT 2.75mm - 34 PZAS -WELCH ALLYN" ValorUnitario="35.344828" Importe="212.07" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="212.07" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="33.9312" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="1696.62">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="10603.89" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1696.62" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="076AE1EB-FE69-2845-BC37-A25924E49EBA" FechaTimbrado="2023-12-28T08:13:09" RfcProvCertif="SCD110105654" SelloCFD="F4d7JYnit4/JcXOJk6l/D1KwMjhw91mbCjy8BMPTxUJP1L4TJAjKyCP4QKw9b0RFk6dHpJ4Xn46fS95r1NimVC10SjwSs0qfVgrpfeG14UxOXNf5oM7KwT61kSfbHaR/XHWgGWQW1Es4j0B8T1X4dP9K5KNLM7TXtdQLyCwqtBwhzcnILpQxwPxpbB6N+IvJMqrV22iOGKtbAiDOicqazhvRaMGUNbo8IHOYIFx2RZEri1wH0WhTWQBMIb0XZHQIL+1s9nLg/LnfJzCIKnsPVu7gOwRpltaaW4SDaqxo4xsC1u81MHEHjpSSVfGhQHctmU/wM+ETQG25tMUQY84HUQ==" NoCertificadoSAT="00001000000702501858" SelloSAT="lsOHmKamBB1KDeIbao3qLh9lhIMRgRZvJG9lhiZVl4VTK+mzTzQVz37adgevwmbQEhkJijTVL1LHpzW0KCwyTNnUJ7tkyGhGTSeH/3cxjxE0yuR+omdByEM7CHf5ks/VWb00Ud1o1vuP9237+oL98DZaXaIHtrIhKKzu/H0t7jZlMWt3+8Z5+TLc4YgYcYm2d6UBagzi9we7uIL3kmgU27sT2F5gdpDPTsQYaoLxI5Uxa7BRODEL01HdhX0D/3llSOAowkWRAQuR3EVrQbpB8HrrX9qM6azf+1+nHmdcx7hdOaC8K9NcUsTX1FqMeiZQVnB4T85MeqIxBEL3nmfe+g==" />
+</cfdi:Complemento></cfdi:Comprobante>

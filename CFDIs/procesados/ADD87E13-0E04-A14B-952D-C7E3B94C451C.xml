@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="B" Folio="117337" Fecha="2023-12-16T10:34:10" Sello="AmOVMn/F2o7owlSN2KghkV2HbHp1VZl80jVRzG7ipRDaZstDYoln6XeNg4HpAIJNSofIyJVn3CT9sJBvaNZac/+LodljVtMoKQi46/+vwEw9OQuCE6LJ5R2QfseZ0PQkxocgysCX0eC/TB0AmLEhoN3QpMH4iXyA/y3dkCr6wlXyUVOdsmFayM1fOmRHD42dst1SmWhJtCe8Oz0QDtnBExrxQSBxneEkszUe8JZKKKMlUk3eSX3F1fpvVnBk6c6HFbfLbi9qeO8BTN2m2hXkkFkJrJ9HOG10P4q7hT502IERL6reuBNeJ9M9zhEV/mxSF5J5qnrciHcZngI5Fc1Yag==" FormaPago="99" NoCertificado="00001000000505438647" Certificado="MIIGHTCCBAWgAwIBAgIUMDAwMDEwMDAwMDA1MDU0Mzg2NDcwDQYJKoZIhvcNAQELBQAwggGEMSAwHgYDVQQDDBdBVVRPUklEQUQgQ0VSVElGSUNBRE9SQTEuMCwGA1UECgwlU0VSVklDSU8gREUgQURNSU5JU1RSQUNJT04gVFJJQlVUQVJJQTEaMBgGA1UECwwRU0FULUlFUyBBdXRob3JpdHkxKjAoBgkqhkiG9w0BCQEWG2NvbnRhY3RvLnRlY25pY29Ac2F0LmdvYi5teDEmMCQGA1UECQwdQVYuIEhJREFMR08gNzcsIENPTC4gR1VFUlJFUk8xDjAMBgNVBBEMBTA2MzAwMQswCQYDVQQGEwJNWDEZMBcGA1UECAwQQ0lVREFEIERFIE1FWElDTzETMBEGA1UEBwwKQ1VBVUhURU1PQzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMVwwWgYJKoZIhvcNAQkCE01yZXNwb25zYWJsZTogQURNSU5JU1RSQUNJT04gQ0VOVFJBTCBERSBTRVJWSUNJT1MgVFJJQlVUQVJJT1MgQUwgQ09OVFJJQlVZRU5URTAeFw0yMDEwMjAxNjA1MThaFw0yNDEwMjAxNjA1MThaMIHrMS8wLQYDVQQDEyZRVUlNSUNPUyBZIEZBUk1BQ09TIERFIE1FWElDTyBTQSBERSBDVjEvMC0GA1UEKRMmUVVJTUlDT1MgWSBGQVJNQUNPUyBERSBNRVhJQ08gU0EgREUgQ1YxLzAtBgNVBAoTJlFVSU1JQ09TIFkgRkFSTUFDT1MgREUgTUVYSUNPIFNBIERFIENWMSUwIwYDVQQtExxRRk04NjEwMTBCTDAgLyBTQUVNNjMwNzEzNjU5MR4wHAYDVQQFExUgLyBTQUVNNjMwNzEzSERGTlNSMDUxDzANBgNVBAsTBlVOSURBRDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAL20QtgIiQQX7zAPgJekjCDzWcPbWs/OtXr8MFEE6V5wvQS6HvbenjJjT96pIEuvdFoBQNjmbvYkQKLpHTIJ9DHt6oDvM4eaV0g6OaK5wTnJRqBAisJrvNhFVj/cFCB1dlFcaaaJdgbkUkBEwxDSeQiwOQr7nkumkTvPqpyKN9esKMQlfkI0W+VA4aisPEXhcg16a4qv56pioqTd8Zr0rDc+7tvajAA6S25xQiQNiDa8stOwiL70Py3xEv0/SYgydfoKTi8kVtKxsYmEBm1SYoPn3hNEyG8SkKr0k/+UGY4z3yars/Krzl7WGdhwe/oqlbP5GQ6XwIBjDzEHYzDXEnUCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQELBQADggIBAHFBqXn0jWORiH2t5iFNK6JddMIPKfzj3xgK0By4Xz8tvAIz6Z0A/5AUA9i0Ew6hC06q4FvDtuJado2M3xA3zos500QN5FYTy4NXHnE5q03I7Dj3kn09YP2EQiSFOhJfIT40FU5Mu5wqkI5hplmOWMVNIrc1cbkRwwt5eWMelTup5Jtb+baz8IMpm0ZOy7g0QTW4mjbGZYWNYmaW+l1+r1iAcM1Vn9k1007XbBO45AukB+57pFDqIg6WrqFtGmrhaVsZggaDr7/34v5pCme/rT32j+FUxXKcMqj9cJqn/hoR06W1dSzIyTYZLuouaWegOLjKzVS3uXEqcMYlyHjZnXEI6CuvnkQ7gZ7BjNUy8oDhBktWEUQUzwYyAO3Ul0Sk4AFqcQL7570/f94Fdt23KA4x9E0L5sSmkZiKMlxMhyUJP+8ZmDeG33EvtdYuvL3E4ZEjqMy9hgVkMqpH7Ab6tdqbZSprLOtFLwD7MQB8APJQghj+Cn0QzdB3cG/EQJm+JSbaE5/68E9z6lMLMsSe26Cu0Bue33bjTbyWHg72wdk/9lb1srERcvFYx0KPGsudo0U8X6kSbJHgLScHTWUJspL1uqY6ajzF9fJ2/0GRW6CRdM/aZjdYngHtgp7v/BWZWC7ygLzKZoOrfpLQ+vGAIRZ01mc2hPaQfrETs87Q4lwN" CondicionesDePago="CREDITO 30 DIAS" SubTotal="73174.50" Moneda="MXN" Total="84882.42" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="97000">
+  <cfdi:Emisor Rfc="QFM861010BL0" Nombre="QUIMICOS Y FARMACOS DE MEXICO" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="AMA200715MW6" Nombre="AMASALUD" DomicilioFiscalReceptor="97302" RegimenFiscalReceptor="601" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="42221504" NoIdentificacion="7501125152078" Cantidad="200" ClaveUnidad="H87" Unidad="PZA" Descripcion="CATETER PERIFERICO 20G ROSA ( VEINCAT )( IVA )" ValorUnitario="12.57" Importe="2514.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2514.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="402.24" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42221504" NoIdentificacion="7501125152047" Cantidad="100" ClaveUnidad="H87" Unidad="PZA" Descripcion="CATETER PERIFERICO 14G NARANJA ( VEINCAT )( IVA )" ValorUnitario="11.02" Importe="1102.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1102.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="176.32" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42221504" NoIdentificacion="7501125152054" Cantidad="100" ClaveUnidad="H87" Unidad="PZA" Descripcion="CATETER PERIFERICO 16G GRIS ( VEINCAT )( IVA )" ValorUnitario="10.98" Importe="1098.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1098.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="175.68" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42221504" NoIdentificacion="7501125152061" Cantidad="200" ClaveUnidad="H87" Unidad="PZA" Descripcion="CATETER PERIFERICO 18G VERDE ( VEINCAT )( IVA )" ValorUnitario="12.57" Importe="2514.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2514.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="402.24" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42221504" NoIdentificacion="7501125152085" Cantidad="200" ClaveUnidad="H87" Unidad="PZA" Descripcion="CATETER PERIFERICO 22G AZUL ( VEINCAT )( IVA )" ValorUnitario="12.53" Importe="2506.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2506.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="400.96" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="51102700" NoIdentificacion="7503017405033" Cantidad="50" ClaveUnidad="H87" Unidad="PZA" Descripcion="CLORHEXI-CLEAN 0.12% C/60 ML ( CLORHEXIDINA )( IVA )" ValorUnitario="21.44" Importe="1072.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1072.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="171.52" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="51102700" NoIdentificacion="7500326021749" Cantidad="50" ClaveUnidad="H87" Unidad="PZA" Descripcion="CLORHEXI-WIPES 2% C/10 TOALLAS ( CLORHEXIDINA )( IVA )" ValorUnitario="85.79" Importe="4289.50" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="4289.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="686.32" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42221500" NoIdentificacion="000000000004000484" Cantidad="200" ClaveUnidad="H87" Unidad="PZA" Descripcion="FLEBOTEK QUIRURGICO NB EQ. VENOCLISIS" ValorUnitario="26.75" Importe="5350.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5350.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="856.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42221500" NoIdentificacion="000000000004000490" Cantidad="60" ClaveUnidad="H87" Unidad="PZA" Descripcion="HEMOTEK CON FILTRO SIN AGUJA." ValorUnitario="28.00" Importe="1680.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1680.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="268.80" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42311512" NoIdentificacion="7501125134548" Cantidad="50" ClaveUnidad="H87" Unidad="PZA" Descripcion="ESPONJA GASA 10X10 CM EST C/5 PZA ( PISA )( IVA )" ValorUnitario="12.66" Importe="633.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="633.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="101.28" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42311512" NoIdentificacion="7501125134821" Cantidad="20" ClaveUnidad="H87" Unidad="PZA" Descripcion="ESPONJA GASA 10X10 CM T 20X12 C/200 PZ C/T RX ( PISA )( IVA )" ValorUnitario="165.05" Importe="3301.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3301.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="528.16" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42221500" NoIdentificacion="000000000004028976" Cantidad="50" ClaveUnidad="H87" Unidad="PZA" Descripcion="FLEBOTEK BOMEDI LIBRE DE AGUJA ( PISA )( IVA )" ValorUnitario="224.00" Importe="11200.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="11200.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1792.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42221500" NoIdentificacion="000000000004001967" Cantidad="200" ClaveUnidad="H87" Unidad="PZA" Descripcion="FLEBOTEK QUIRURGICO CON CLAVE" ValorUnitario="79.30" Importe="15860.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="15860.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2537.60" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42221500" NoIdentificacion="000000000004003549" Cantidad="50" ClaveUnidad="H87" Unidad="PZA" Descripcion="GIRATEK LLAVE DE TRES VIAS" ValorUnitario="14.56" Importe="728.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="728.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="116.48" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42142500" NoIdentificacion="000000000004031208" Cantidad="50" ClaveUnidad="H87" Unidad="PZA" Descripcion="MICROCLAVE CLEAR C/EXT MICRO 30 CM 3 VIAS ( PISA )( IVA )" ValorUnitario="141.11" Importe="7055.50" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="7055.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1128.88" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42142500" NoIdentificacion="000000000004031209" Cantidad="50" ClaveUnidad="H87" Unidad="PZA" Descripcion="MICROCLAVE CLEAR ( PISA )( IVA )" ValorUnitario="74.56" Importe="3728.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3728.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="596.48" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42281700" NoIdentificacion="000000000004006860" Cantidad="10" ClaveUnidad="H87" Unidad="PZA" Descripcion="PREPZYME XF ESPUMA C/14 OZ ( PISA )( IVA )" ValorUnitario="572.62" Importe="5726.20" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5726.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="916.192" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42142500" NoIdentificacion="000000000004023637" Cantidad="30" ClaveUnidad="H87" Unidad="PZA" Descripcion="MICROCLAVE CLEAR C/EXT MICRO 20 CM 2 VIAS ( PISA )( IVA )" ValorUnitario="93.91" Importe="2817.30" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2817.30" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="450.768" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="11707.92">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="73174.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="11707.92" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="ADD87E13-0E04-A14B-952D-C7E3B94C451C" FechaTimbrado="2023-12-16T10:37:24" RfcProvCertif="SCD110105654" SelloCFD="AmOVMn/F2o7owlSN2KghkV2HbHp1VZl80jVRzG7ipRDaZstDYoln6XeNg4HpAIJNSofIyJVn3CT9sJBvaNZac/+LodljVtMoKQi46/+vwEw9OQuCE6LJ5R2QfseZ0PQkxocgysCX0eC/TB0AmLEhoN3QpMH4iXyA/y3dkCr6wlXyUVOdsmFayM1fOmRHD42dst1SmWhJtCe8Oz0QDtnBExrxQSBxneEkszUe8JZKKKMlUk3eSX3F1fpvVnBk6c6HFbfLbi9qeO8BTN2m2hXkkFkJrJ9HOG10P4q7hT502IERL6reuBNeJ9M9zhEV/mxSF5J5qnrciHcZngI5Fc1Yag==" NoCertificadoSAT="00001000000702501858" SelloSAT="LYrD+GXSe3NC4QI15dtm/yQ7iph/a/gdGgQzbc+H94xvP4ldXeYvuB6xC5/A5cqYHDKuvpGbJKu1Q2uQu9L7QTiJtKw99gyVWJWHNPeo3AGrGSjEH4U6IDG1VUsU37CNJ3EeZpbH56m2wZJRoo98Bv0nrE3ZAXme+TQi2IILnK0i/thYjg4Z1PaNrXIm3URMgt3SWn4b4C3Ct/YfWwIsM5sZeozVylUeV5RZIFndJgkEUU0dQvckaghnZfYTX7CFSPjcSipLAUzGnyP4IRofP8b0O74IJ3V8Y/p9UXAPHvpKwcgrA88FtDAPOn/JliVal64cIVj8pVFV2ExR7XtnmQ==" />
+</cfdi:Complemento></cfdi:Comprobante>

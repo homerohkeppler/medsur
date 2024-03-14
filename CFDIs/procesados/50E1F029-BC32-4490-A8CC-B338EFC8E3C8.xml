@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="4.0" Serie="MCJBB" Folio="111910" Fecha="2023-12-23T21:30:48" Sello="bVYyudWUPE2PaL9HW5BDBqG++/eCb2yfhx/W+kK4gizQ6PwUXUNTIRmBPG1OGXOR1iJ6hsSxioCi1SRcGo5VJDNJ0YmWij9FusFnIo9GGYXw58aAVBqLiNcTj2G517l+izgSNUSeplUyRmbEolUS10mUeu4HtaiBjMuwAVUxGXRBeO1iaumPWdw37Bn5Vus04H3vixBgoQlixV6BHGm1JCmXcV8t5UYMoMwTxBUqp/foJUH5pAZv7k8SSYpeHhDa540Dhk2zuZ7Cbmw/KVsZxWieLI0ShRDaVOUi3fh0W3vMWCe04vk42vfQs1DcIMsAIHHuBceFt5wC22zAwKfBTw==" FormaPago="01" NoCertificado="00001000000503704219" Certificado="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" CondicionesDePago="CONTADO" SubTotal="441.17" Descuento="0.00" Moneda="MXN" Total="486.00" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="97700" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd">
+  <cfdi:Emisor Rfc="BPU7901018D4" Nombre="BEBIDAS PURIFICADAS" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="FUM201218TD7" Nombre="FARMACIAS UNIVERSITARIAS MID" DomicilioFiscalReceptor="97113" RegimenFiscalReceptor="601" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="50202301" NoIdentificacion="1544" Cantidad="1" ClaveUnidad="XBX" Unidad="CJA" Descripcion="Epura 1 L Pet 12" ValorUnitario="161.000000" Importe="161.000000" Descuento="0.000000" ObjetoImp="03" />
+    <cfdi:Concepto ClaveProdServ="50202306" NoIdentificacion="2002" Cantidad="2" ClaveUnidad="XBX" Unidad="CJA" Descripcion="Pepsi Black 12 Oz PET 12" ValorUnitario="72.413790" Importe="144.827580" Descuento="0.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="144.82758" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="23.17241" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202306" NoIdentificacion="6258" Cantidad="1" ClaveUnidad="XBX" Unidad="CJA" Descripcion="Pepsi Light 0.5 Lts Pet 12" ValorUnitario="135.344830" Importe="135.344830" Descuento="0.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="135.34483" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="21.65517" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="44.83">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="280.17" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="44.83" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" Version="1.1" UUID="50E1F029-BC32-4490-A8CC-B338EFC8E3C8" FechaTimbrado="2023-12-23T21:31:10" RfcProvCertif="SAS790709F92" SelloCFD="bVYyudWUPE2PaL9HW5BDBqG++/eCb2yfhx/W+kK4gizQ6PwUXUNTIRmBPG1OGXOR1iJ6hsSxioCi1SRcGo5VJDNJ0YmWij9FusFnIo9GGYXw58aAVBqLiNcTj2G517l+izgSNUSeplUyRmbEolUS10mUeu4HtaiBjMuwAVUxGXRBeO1iaumPWdw37Bn5Vus04H3vixBgoQlixV6BHGm1JCmXcV8t5UYMoMwTxBUqp/foJUH5pAZv7k8SSYpeHhDa540Dhk2zuZ7Cbmw/KVsZxWieLI0ShRDaVOUi3fh0W3vMWCe04vk42vfQs1DcIMsAIHHuBceFt5wC22zAwKfBTw==" NoCertificadoSAT="00001000000518507243" SelloSAT="cmaQk7ikTQbPIvDQxGjiK/hwHJUiupW0n0lAKOZwUR0SzmVL8MDttj6J9ZTzUpkt6Y2//b9/HWXlDTWay9l2d4oCYfH9ZNJrk8xyF1Q4pEYdaLdal2wpnq8dn9CjUFYPu1KRtkac08Hm8OnaKTZbRwn25H3NqS+sPXyt84Bxzjg9BAyNBGt58qQXKd0J07ij1nwpd8VfKx+XZpQlFcCnZRmQXMZ1yLLCwkKolVkhjuwf5R+zxVm6q7jOSiZOsHpD234p3A3eKRZRz9opEtzhpE5O0l7WIe2UNkUv9CIjBr2W/s/thtlHPzlTvk/z4MakyA1qT0rdxGkfeLY5g9PcEw==" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

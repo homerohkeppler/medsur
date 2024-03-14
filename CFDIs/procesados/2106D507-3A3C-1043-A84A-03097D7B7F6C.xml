@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pago20="http://www.sat.gob.mx/Pagos20" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd http://www.sat.gob.mx/Pagos20 http://www.sat.gob.mx/sitio_internet/cfd/Pagos/Pagos20.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Folio="63722" Fecha="2024-01-02T15:54:38" Sello="mtoB7WCZuZ49n4eSUMbx3WWVOPPCb7O0X7drISFQZoYjoSpQVtVOgK3r+8lKVJgnv517qOx8ca1ZNTlUFaYK6Gj153PZcp9xBWYm2YsaMG1xzkE/I2zUERgkPnKWO9j6NXaQb4cJL5ilQnV2YHjjdDz3osRDMPpG/aatgCmskoiFifvCG02BMHe/aSQQpFePnyywXnNJxN+W4skMIAVVwhWP7mSpAWxRA2KzCA/8LHDRILFAgkcW1sPRC5chiZOw35AykKQpTOVwrIoDW0Qe+VBAywR7FzGz25n629Z5eSLjf6d6YEyMmFJs70tcfDDCLry3TrJCVUvGf5LH9JhrqA==" NoCertificado="00001000000505438647" Certificado="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" SubTotal="0" Moneda="XXX" Total="0" TipoDeComprobante="P" Exportacion="01" LugarExpedicion="97000">
+  <cfdi:Emisor Rfc="QFM861010BL0" Nombre="QUIMICOS Y FARMACOS DE MEXICO" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="FUM201218TD7" Nombre="FARMACIAS UNIVERSITARIAS MID" DomicilioFiscalReceptor="97113" RegimenFiscalReceptor="601" UsoCFDI="CP01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="84111506" Cantidad="1" ClaveUnidad="ACT" Descripcion="Pago" ValorUnitario="0" Importe="0" ObjetoImp="01">
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Complemento>
+    <pago20:Pagos Version="2.0">
+      <pago20:Totales TotalTrasladosBaseIVA16="126.25" TotalTrasladosImpuestoIVA16="20.20" TotalTrasladosBaseIVA0="311.20" TotalTrasladosImpuestoIVA0="0.00" MontoTotalPagos="457.65" />
+      <pago20:Pago FechaPago="2023-12-28T10:40:15" FormaDePagoP="03" MonedaP="MXN" TipoCambioP="1" Monto="457.65" RfcEmisorCtaOrd="BSM970519DU8" NomBancoOrdExt="SANTANDER" CtaOrdenante="6550845270" RfcEmisorCtaBen="BSM970519DU8" CtaBeneficiario="014910655002084128">
+        <pago20:DoctoRelacionado IdDocumento="6C536D82-FFFD-814C-9B68-4132F8C7BE3C" Serie="B" Folio="117310" MonedaDR="MXN" EquivalenciaDR="1" NumParcialidad="1" ImpSaldoAnt="457.65" ImpPagado="457.65" ImpSaldoInsoluto="0.00" ObjetoImpDR="02">
+          <pago20:ImpuestosDR>
+            <pago20:TrasladosDR>
+              <pago20:TrasladoDR BaseDR="126.25" ImpuestoDR="002" TipoFactorDR="Tasa" TasaOCuotaDR="0.160000" ImporteDR="20.20" />
+              <pago20:TrasladoDR BaseDR="311.20" ImpuestoDR="002" TipoFactorDR="Tasa" TasaOCuotaDR="0.000000" ImporteDR="0.00" />
+            </pago20:TrasladosDR>
+          </pago20:ImpuestosDR>
+        </pago20:DoctoRelacionado>
+        <pago20:ImpuestosP>
+          <pago20:TrasladosP>
+            <pago20:TrasladoP BaseP="311.20" ImpuestoP="002" TipoFactorP="Tasa" TasaOCuotaP="0.000000" ImporteP="0.00" />
+            <pago20:TrasladoP BaseP="126.25" ImpuestoP="002" TipoFactorP="Tasa" TasaOCuotaP="0.160000" ImporteP="20.20" />
+          </pago20:TrasladosP>
+        </pago20:ImpuestosP>
+      </pago20:Pago>
+    </pago20:Pagos>
+  <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="2106D507-3A3C-1043-A84A-03097D7B7F6C" FechaTimbrado="2024-01-02T16:06:47" RfcProvCertif="SCD110105654" SelloCFD="mtoB7WCZuZ49n4eSUMbx3WWVOPPCb7O0X7drISFQZoYjoSpQVtVOgK3r+8lKVJgnv517qOx8ca1ZNTlUFaYK6Gj153PZcp9xBWYm2YsaMG1xzkE/I2zUERgkPnKWO9j6NXaQb4cJL5ilQnV2YHjjdDz3osRDMPpG/aatgCmskoiFifvCG02BMHe/aSQQpFePnyywXnNJxN+W4skMIAVVwhWP7mSpAWxRA2KzCA/8LHDRILFAgkcW1sPRC5chiZOw35AykKQpTOVwrIoDW0Qe+VBAywR7FzGz25n629Z5eSLjf6d6YEyMmFJs70tcfDDCLry3TrJCVUvGf5LH9JhrqA==" NoCertificadoSAT="00001000000702501858" SelloSAT="jgc1nAX9OBjoYP7FeTGXFXBUiMZOAfh80xGYpburYouer+aSnfqQmd79cMzA1ItenWy73AoxY9TOVtn60KQm0Fu0s8+ozdowEKXKYGDXFlQChoYx5RP6mMRwS7sIfxZ3FWUDaxXFiiDmAb+qa3CMOKgizlRPlTF34+wIYkqEkbl5MN3Ol32ZmUEr/K4lOSeRjkHjm/cSDNO3baaDmrdXjzEam5vFVu6Sn7TJ8NClyJ1aRWsO0vyAg5U586e4laWoAJSWAp8Lij8EdYI5DFoQ/nYs/xcXjQFi340BahLDKk//7DqujXyX+l0p1LgfjUoUO1jLKbYvzqfyvC5dpT5aWw==" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

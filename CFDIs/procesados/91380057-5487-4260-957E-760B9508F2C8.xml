@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Fecha="2023-12-19T16:40:20" Sello="MnDksHXrYkkbN9WrRNimcwo42KEGxGxBK/6ldWkjr46KI7yC+V4R6neTijjuIUhGCWuWAvK/k8jMuBkheiAbYs0aeipeeEwyeI1Pi7+b/dg+Adj6pPi17SfbinVrBI7c0KgxwfdxR65hlowzpAE+we7hxB7jUXJcAmQ0kdFTJpyU65I1GyqzuYL9lOSXQx9LtcPiALOolu8YDZEiz8R+S5RHk/7Nb456lIsAamKgG9Jl9ti1uBOXEQpna/WYZecagpKDcN31PXLS6uLNYPI24a0iTqC6sG2PRuyjEUZRsG1pX9j9+54TFYIzQXSGkc4xVurp+8pFJMKVsuLtGD60QA==" FormaPago="03" NoCertificado="00001000000600196075" Certificado="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" SubTotal="17160.00" Moneda="MXN" Total="19905.60" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="97289" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cartaporte30="http://www.sat.gob.mx/CartaPorte30">
+  <cfdi:Emisor Rfc="BAAC820826L27" Nombre="CINDY IVETT BLANCO AVILA" RegimenFiscal="621" />
+  <cfdi:Receptor Rfc="FUM201218TD7" Nombre="FARMACIAS UNIVERSITARIAS MID" DomicilioFiscalReceptor="97113" RegimenFiscalReceptor="601" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="42131509" Cantidad="18.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="FILIPINA MOD.ALFORZAS DE CABALLERO CUELLO MAO BLANCAS M/C EN TELA TICALINO 65/35 CON BORDADO EN PECHO IZQUIERDO" ValorUnitario="370.00" Importe="6660.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6660.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1065.60" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42131509" Cantidad="30.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="FILIPINA MOD AUT DE DAMA CUELLO CAMISERO BLANCA M/C EN TELA TICALINO 65/35 CON BORDADO EN PECHO IZQUIERDO" ValorUnitario="350.00" Importe="10500.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="10500.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1680.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="2745.60">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="17160.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2745.60" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="91380057-5487-4260-957E-760B9508F2C8" FechaTimbrado="2023-12-19T16:42:49" RfcProvCertif="SAT970701NN3" SelloCFD="MnDksHXrYkkbN9WrRNimcwo42KEGxGxBK/6ldWkjr46KI7yC+V4R6neTijjuIUhGCWuWAvK/k8jMuBkheiAbYs0aeipeeEwyeI1Pi7+b/dg+Adj6pPi17SfbinVrBI7c0KgxwfdxR65hlowzpAE+we7hxB7jUXJcAmQ0kdFTJpyU65I1GyqzuYL9lOSXQx9LtcPiALOolu8YDZEiz8R+S5RHk/7Nb456lIsAamKgG9Jl9ti1uBOXEQpna/WYZecagpKDcN31PXLS6uLNYPI24a0iTqC6sG2PRuyjEUZRsG1pX9j9+54TFYIzQXSGkc4xVurp+8pFJMKVsuLtGD60QA==" NoCertificadoSAT="00001000000504465028" SelloSAT="eqxYPVp1faYf59XvfAJbv2hksrlTKWPm7q+gScCldzaa+OP172QG+SijTw7JQGsWFXr6nknE+l06Ihs5zjccrf3Vql2nkA58xXqbvdFwPSLr0bG4F+1T2D2RLxASorBIX3d9Y0lfORrjPS9Ejassg9m1QUFkUelwZOC1uji0N/DIz0uEfqupW5vQ21brwi7Wa5ArpidjpJVoil5cqpD67J2uW91zGoywlsoEBpIzNux7G6jc4t69KzEXJHPLuk5OdDWdGqdx2OY9gmlS4IZnB/Y9zV3qIbBEw8Jz7a1D0voL00S0ExUUmv3A9YzyrmbjJss1C/689sOIpsGpqicG8Q==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

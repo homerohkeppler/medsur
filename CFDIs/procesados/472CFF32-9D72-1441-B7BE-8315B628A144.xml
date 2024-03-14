@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="B" Folio="117272" Fecha="2023-12-14T15:54:05" Sello="IjBUg8gsZ9/qR8O4P97+3LmYr2TxCER3VYFZU+i21Id+obHSHKEEC5dv/QoM4susTKDaWzLyY8FKIZz3rNcn6/p6NlMByH60zLjwK3VUlmxKQ0fCVuMjEjlIe+IUEcufLT9lxb7oAFRHbxSLjJi5Ql8HEKt/jwK69Fm3MF3tawpikpFSuYStp/BZKm0uR4lhWiS4pAiOcdqRmFQ0QKGIplSrIpZfZbl0S5CYKh7Dz1rY5Agzi3IEqRa6+1GfLiQZRxuQ3eoVXdLTZ6gSfOOD8IJ58t621gKIEeBoAvtj8uhxIN+ZOKdevNYhSeDo+O2PSg7SXX+wM7X8Vz+WxFjSoQ==" FormaPago="99" NoCertificado="00001000000505438647" Certificado="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" CondicionesDePago="CREDITO 30 DIAS" SubTotal="572.58" Moneda="MXN" Total="578.72" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="97000">
+  <cfdi:Emisor Rfc="QFM861010BL0" Nombre="QUIMICOS Y FARMACOS DE MEXICO" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="FUM201218TD7" Nombre="FARMACIAS UNIVERSITARIAS MID" DomicilioFiscalReceptor="97113" RegimenFiscalReceptor="601" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="51171806" NoIdentificacion="7502227871676" Cantidad="5" ClaveUnidad="H87" Unidad="PZA" Descripcion="CONYSMIN 10 MG C/20 TABS ( METOCLOPRAMIDA )" ValorUnitario="6.24" Importe="31.20" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="31.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="51142100" NoIdentificacion="7501573900443" Cantidad="50" ClaveUnidad="H87" Unidad="PZA" Descripcion="QUITADOL 500 MG C/10 TABS ( PARACETAMOL )" ValorUnitario="5.24" Importe="262.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="262.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="51101542" NoIdentificacion="7502001162693" Cantidad="5" ClaveUnidad="H87" Unidad="PZA" Descripcion="PHENDEX OTICO C/10 ML (CIPROFLO,HIDROCORTI,LIDOCAINA)" ValorUnitario="29.33" Importe="146.65" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="146.65" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="51191905" NoIdentificacion="7503029005054" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="RETINOL C/VIT &quot;E&quot; Y ACEITE DE GIRASOL C/30 CAPS ( NATURAGEL ) (IVA)" ValorUnitario="38.38" Importe="38.38" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="38.38" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6.1408" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="51171900" NoIdentificacion="7502001162365" Cantidad="5" ClaveUnidad="H87" Unidad="PZA" Descripcion="MORNIN 40 MG CON 7 CAPSULAS  ( OMEPRAZOL )" ValorUnitario="18.87" Importe="94.35" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="94.35" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="6.14">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="534.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+      <cfdi:Traslado Base="38.38" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6.14" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="472CFF32-9D72-1441-B7BE-8315B628A144" FechaTimbrado="2023-12-14T15:56:38" RfcProvCertif="SCD110105654" SelloCFD="IjBUg8gsZ9/qR8O4P97+3LmYr2TxCER3VYFZU+i21Id+obHSHKEEC5dv/QoM4susTKDaWzLyY8FKIZz3rNcn6/p6NlMByH60zLjwK3VUlmxKQ0fCVuMjEjlIe+IUEcufLT9lxb7oAFRHbxSLjJi5Ql8HEKt/jwK69Fm3MF3tawpikpFSuYStp/BZKm0uR4lhWiS4pAiOcdqRmFQ0QKGIplSrIpZfZbl0S5CYKh7Dz1rY5Agzi3IEqRa6+1GfLiQZRxuQ3eoVXdLTZ6gSfOOD8IJ58t621gKIEeBoAvtj8uhxIN+ZOKdevNYhSeDo+O2PSg7SXX+wM7X8Vz+WxFjSoQ==" NoCertificadoSAT="00001000000702501858" SelloSAT="dtRRlTx2egzmmPfBLZ5HdtGhJNmOgq0ZcWmfeUcRyny2NUlku7eLdD42D+HwQsLzMONlS2Mja7Du4tT3iyjAGn3NNmzmohRCgOU8ouHLRYOU2YDJhXnztSmBOS/Z++7vnLiDfVV7ju+EjANsNTWqNadgbsogDshwKBf97ljWUpcpIRxECZ1fXJNVFPYMmgO6IpaeX7bolDNN3slhm/xFzXFwkUSo3BiWLibZBNJOm6v/tOHCXdWJbt+rwxpT5tkfTeeKgSDULDRDf40wBBgQVLLkJzbd0xPQyaQ0cibst+SZiqyErlbw9tL94pel9Ua1vEm8xROJt6SQRaZ+L0DUHw==" />
+</cfdi:Complemento></cfdi:Comprobante>

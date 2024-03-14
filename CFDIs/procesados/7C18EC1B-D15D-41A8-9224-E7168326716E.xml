@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="4.0" Serie="MCJBA" Folio="999550" Fecha="2023-10-31T22:22:07" Sello="coacP/1KtXOvbNnxARmNqMLYYAMu/Vwhxl+U+OUzcCSONpj/OXjp7+mJoRdiitRWJ/wdqUA7iaIrySRpEi5DTk5InP9Bcu+neqT/TBSI9Z53hfAd384ukgu7HnBwrThqm2+F5YFQUmvY51XCBQqbAQ/l1kkD3rqRRot/gAsXo4iLT5B+/N5jRUeZt5r4JnnrBP51rhcaOzKHLZWENkFiPZkShCm6HHMHA5TqF8i/hkxIKBVXM5FcRNT2LhH7rRp4vCs07HD4fw3WCSc8xitVbZoV9i749OA/wuzwQKNKmm/ufTrpPvcca+FrkYva9eEHJN+9F4ao6syujXrARaZBhQ==" FormaPago="01" NoCertificado="00001000000503704219" Certificado="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" CondicionesDePago="CONTADO" SubTotal="298.52" Descuento="0.00" Moneda="MXN" Total="339.00" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="97700" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd">
+  <cfdi:Emisor Rfc="BPU7901018D4" Nombre="BEBIDAS PURIFICADAS" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="FUM201218TD7" Nombre="FARMACIAS UNIVERSITARIAS MID" DomicilioFiscalReceptor="97113" RegimenFiscalReceptor="601" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="50202306" NoIdentificacion="2302" Cantidad="1" ClaveUnidad="XBX" Unidad="CJA" Descripcion="Pepsi Kick SG 0.5 Lts Pet 12" ValorUnitario="126.724140" Importe="126.724140" Descuento="0.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="126.72414" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="20.27586" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202306" NoIdentificacion="2420" Cantidad="1" ClaveUnidad="XBX" Unidad="CJA" Descripcion="G.C. A. Mineral G. 600 Ml Pet 12" ValorUnitario="126.293100" Importe="126.293100" Descuento="0.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="126.2931" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="20.2069" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202300" NoIdentificacion="9599" Cantidad="1" ClaveUnidad="XBX" Unidad="CJA" Descripcion="Cosecha Pura Manzana 200 Ml TP 6" ValorUnitario="45.500000" Importe="45.500000" Descuento="0.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="45.5" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="40.48">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="45.5" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+      <cfdi:Traslado Base="253.02" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="40.48" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" Version="1.1" UUID="7C18EC1B-D15D-41A8-9224-E7168326716E" FechaTimbrado="2023-10-31T22:22:38" RfcProvCertif="SAS790709F92" SelloCFD="coacP/1KtXOvbNnxARmNqMLYYAMu/Vwhxl+U+OUzcCSONpj/OXjp7+mJoRdiitRWJ/wdqUA7iaIrySRpEi5DTk5InP9Bcu+neqT/TBSI9Z53hfAd384ukgu7HnBwrThqm2+F5YFQUmvY51XCBQqbAQ/l1kkD3rqRRot/gAsXo4iLT5B+/N5jRUeZt5r4JnnrBP51rhcaOzKHLZWENkFiPZkShCm6HHMHA5TqF8i/hkxIKBVXM5FcRNT2LhH7rRp4vCs07HD4fw3WCSc8xitVbZoV9i749OA/wuzwQKNKmm/ufTrpPvcca+FrkYva9eEHJN+9F4ao6syujXrARaZBhQ==" NoCertificadoSAT="00001000000518507243" SelloSAT="n7gvOV2HeynRp931HP7fVv9N4/6i1ETr0BeKUuB5lWM1WD5Ucr4BEZo7NxW6eIyKEblglUpiA5Jq5XcXgRXc5i0rDQ62aX9fNQ7HRxe0cHTw1XYiP5LU/XgI+QiM1LQj63NBDQDirRlelviWmaSwEKyLhNI6v2dfivzWSBUDEKySwdH7dN2WVa1yJNa54Kji56FnAQml7x0cQwE/SJ6tJtXntivPNSNdeCpCp1Qt+QnQga88FbTdMBhFtqqEGRdjtjB7uHwQXVnD6/ZDwCRfrxwUxSBYQa9hwOADFJxhQYk0ZZCkqlyl2RdsqNwWhUTB4UxukK6CtS/kUSgvmo4pDw==" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

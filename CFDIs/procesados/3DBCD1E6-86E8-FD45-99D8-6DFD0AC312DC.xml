@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="X" Folio="141364" Fecha="2023-12-20T15:11:44" Sello="dWJFiaj6F2ZOIoEdmvemHtf2YUnLpnd5SpKgDaQQlCTt635cUsRNCWF0L1DxssfdB1FzHlNtuA6y6ZmnhLNytVVMEaoUmrIooc/NY4Qy9uDLz/FQaaSfwxUjLeiSznMM3kFYnUdSfi4aET1ZBrex3yJ1M33IKhAX9UAE0+9Nt6NeYfQVmBCkMKHmfEO3Txf5AoI58w09Cvabr77YGw9xAWZvv/cdzN76Qr8GMX5cImvXxk8BJHcUH1Nzn9o/9TwG1yVCjUPw+elMnGPcJHzAQkG8p/vPZOlrBrCCDVwR/qq8nY6CK8FlEax2zTJAKEYrC8ZMzBQJarUT508LZnN2hw==" FormaPago="03" NoCertificado="00001000000506685623" Certificado="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" CondicionesDePago="Pago en una sola exhibición" SubTotal="3362.93" Moneda="MXN" Total="3901.00" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="97000">
+  <cfdi:Emisor Rfc="AHS92042886A" Nombre="ABASTECEDOR HOSPITALARIO DEL SURESTE" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="AMA200715MW6" Nombre="AMASALUD" DomicilioFiscalReceptor="97302" RegimenFiscalReceptor="601" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="42311505" NoIdentificacion="70200749276-CAJA" Cantidad="2" ClaveUnidad="XBX" Unidad="CAJA" Descripcion="1624W APOSITO TRANSPARENTE TEGADERM FILM MEDIDA 6cm X 7cm C/100 PZS 3M" ValorUnitario="707.758621" Importe="1415.52" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1415.52" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="226.4832" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="41112400" NoIdentificacion="3307484200" Cantidad="1" ClaveUnidad="XBX" Unidad="CAJA" Descripcion="ACCU-CHEK SOFTCLIX LANCETAS CON 200 PIEZAS - ROCHE" ValorUnitario="333.62069" Importe="333.62" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="333.62" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="53.3792" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="41104102" NoIdentificacion="6454011023" Cantidad="4" ClaveUnidad="XBX" Unidad="CAJA" Descripcion="ACCUCHEK PERFORMA CON 50 TIRAS - ROCHE" ValorUnitario="403.448276" Importe="1613.79" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1613.79" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="258.2064" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="538.07">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="3362.93" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="538.07" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="3DBCD1E6-86E8-FD45-99D8-6DFD0AC312DC" FechaTimbrado="2023-12-20T15:12:19" RfcProvCertif="SCD110105654" SelloCFD="dWJFiaj6F2ZOIoEdmvemHtf2YUnLpnd5SpKgDaQQlCTt635cUsRNCWF0L1DxssfdB1FzHlNtuA6y6ZmnhLNytVVMEaoUmrIooc/NY4Qy9uDLz/FQaaSfwxUjLeiSznMM3kFYnUdSfi4aET1ZBrex3yJ1M33IKhAX9UAE0+9Nt6NeYfQVmBCkMKHmfEO3Txf5AoI58w09Cvabr77YGw9xAWZvv/cdzN76Qr8GMX5cImvXxk8BJHcUH1Nzn9o/9TwG1yVCjUPw+elMnGPcJHzAQkG8p/vPZOlrBrCCDVwR/qq8nY6CK8FlEax2zTJAKEYrC8ZMzBQJarUT508LZnN2hw==" NoCertificadoSAT="00001000000702501858" SelloSAT="QZ+T7saQMYVGG7RSsH72M6cIZEG3Fq3B2g1LxC+fbWWp68QnR8R+324wvUn+rx8xwxWOIFl3CHtjEpNlk7OcjZ82RqJZUk8Ie4m7jXRvO8DUHvG5RUE5THl0SMMBSo6YhwM6Iwt0/JU0W8hTpGcOB3QyBq023g5QGMWpRjnHi3JRqtR6qCNc69cb8H3/zBJ/NK6NTNEbvXva8FfH3d1EUyKuxu2f9NoKhtZ+5EvjyX2i8n1gfB861tYkZEBy8mtod2SYS2NlVMCJEyUEcMExPw3lK8Ko6h7tWSjTsitx0tB5owZrqoAvHJdKvLrKaOnf/TvZjx1GiIgdg3AR472LFQ==" />
+</cfdi:Complemento></cfdi:Comprobante>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="X" Folio="141839" Fecha="2024-01-23T09:21:10" Sello="N6WW2C8KWEUDQLWfrgI6g0LV7aGoUlLqW6Evt6tG0nrWK7WAERhFO0SX6THgKlQy8X3sLhZa2Bou3pyyUAhtjXqp7Ym1y1KOwWpKZxvHXiaMdTiCA8KcwT2xP5tc1QeDKNRSUXWuXB9wx/ijpUvt2LRNY+CkmEQJ+QuN2kNR5u1x6sNU7ElTPaWzzfCt0jROM8YUPZTP0ZAToIwtGgGjJUad4T9aj2XEiOfP2NAURrWFiNg2qpKERfyLx587LQ2EBKszc+31rKqjNnYG068KuSglKTxVfYbnmIWqXSSgc1uz5OtTPzwO12dV3c4pnXOwoGGbdHVkIUBMZ78pO75ouQ==" FormaPago="03" NoCertificado="00001000000506685623" Certificado="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" CondicionesDePago="Pago en una sola exhibición" SubTotal="5682.76" Moneda="MXN" Total="6592.00" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="97000">
+  <cfdi:Emisor Rfc="AHS92042886A" Nombre="ABASTECEDOR HOSPITALARIO DEL SURESTE" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="AMA200715MW6" Nombre="AMASALUD" DomicilioFiscalReceptor="97302" RegimenFiscalReceptor="601" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="42221503" NoIdentificacion="CV-17702-M" Cantidad="5" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="CATETER VENOSO CENTRAL 7 FR 20cm 2 LUMEN - ARROW" ValorUnitario="603.448276" Importe="3017.24" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3017.24" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="482.7584" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42271709" NoIdentificacion="1-5076-36" Cantidad="2" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="CANULA NASOFARING EST ROBERTAZZI 36 FR - SUNMED&#xA;CARACTERÍSTICAS:&#xA;- ESTÉRILES&#xA;- DE LA MEJOR CALIDAD&#xA;- CON SUPERFICIE LISA PARA UNA FÁCIL INSERCIÓN&#xA;- CON EL TAMAÑO PRECISO&#xA;- SUAVES - REDUCEN LA INCOMODIDAD EN EL CONDUCTO NASAL&#xA;- FLEXIBLES&#xA;- RESISTENTES A GOLPES O RETORCIMIENTOS&#xA;- ELÁSTICAS&#xA;- PROCESADAS PARA REDUCIR LA PROTEÍNA DEL LÁTEX" ValorUnitario="262.931034" Importe="525.86" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="525.86" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="84.1376" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42241801" NoIdentificacion="T0000CA-CH" Cantidad="3" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="CABESTRILLO AZUL CHICO - MEDIPAR" ValorUnitario="80.172414" Importe="240.52" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="240.52" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="38.4832" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42312400" NoIdentificacion="GE6472A" Cantidad="19" ClaveUnidad="XBX" Unidad="CAJA" Descripcion="GASA ESTERIL 7.5 X 5cm  AZUL CON 10 PIEZAS - QUIRMEX" ValorUnitario="9.483" Importe="180.18" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="180.18" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="28.8288" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53102307" NoIdentificacion="BK-115-M" Cantidad="1" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="CORSET DE JEWETT MEDIANA - SUPER CONFORT" ValorUnitario="1681.034483" Importe="1681.03" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1681.03" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="268.9648" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42181500" NoIdentificacion="WA52434-U" Cantidad="1" ClaveUnidad="XPK" Unidad="PAQ" Descripcion="ESPECULO DESC ADULTO 4.25mm - 34 PZAS - WELCH ALLYN" ValorUnitario="37.931034" Importe="37.93" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="37.93" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6.0688" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="909.24">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="5682.76" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="909.24" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="41525A4D-B881-F249-B6A5-49A0B80D4FE1" FechaTimbrado="2024-01-23T09:21:31" RfcProvCertif="SCD110105654" SelloCFD="N6WW2C8KWEUDQLWfrgI6g0LV7aGoUlLqW6Evt6tG0nrWK7WAERhFO0SX6THgKlQy8X3sLhZa2Bou3pyyUAhtjXqp7Ym1y1KOwWpKZxvHXiaMdTiCA8KcwT2xP5tc1QeDKNRSUXWuXB9wx/ijpUvt2LRNY+CkmEQJ+QuN2kNR5u1x6sNU7ElTPaWzzfCt0jROM8YUPZTP0ZAToIwtGgGjJUad4T9aj2XEiOfP2NAURrWFiNg2qpKERfyLx587LQ2EBKszc+31rKqjNnYG068KuSglKTxVfYbnmIWqXSSgc1uz5OtTPzwO12dV3c4pnXOwoGGbdHVkIUBMZ78pO75ouQ==" NoCertificadoSAT="00001000000702501858" SelloSAT="g/fOyzxXq/rea7nOc0UxClJSWgUChkhNkInG1sPBfQYMs5TCU9B+Ecgw/s+6e5ixMTq4BAR9iJ8Xo3ehhP5dzcLIO4C7BEJ8QdH91tZSOkA0urXglTVZ+gO7gklZmmz3mGbAQlY66OPVIcPC67E0at4+0eB1j3n92p6qrVhdHaMKBRv+KEpwIlJWbp0ki4O29+qJ+2ag3gR3I36xndZDNaLf3x0cnZcQczHamYMHEV0tFOrfPEftzq30BWN7Sc6oXVLCrJh899hYHC75ay9/0NwOdZl1TLNHPKpT2B2VR59tq5jIyxq/7a2dXAJAZVImKEMzert0Drw2VQdjTJEEnQ==" />
+</cfdi:Complemento></cfdi:Comprobante>

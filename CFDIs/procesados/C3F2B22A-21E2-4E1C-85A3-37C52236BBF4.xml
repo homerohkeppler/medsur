@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante Version="4.0" Serie="FL" Folio="00017822" Fecha="2023-12-19T12:47:00" Sello="D7R1l9oVHvkeOoWHlq0gB+i/Ry8B/qUrVkCFAcCT/bcq+MDhGmy0PmP7mpa3SaAnkZaMlepjHkbn00M71wh/CRlzgMUQgcTGfnyUxT8ZZV2mRMN33U71C8cc9ZhHt7pN94dhQ99y3u/XchIlE7RXM53xcbUs3cTi+Z5BR5Qar+S1w1CN+H4hEQ3+QMmoPFV5eUCe+wmsj5jpb8w518Wx14JEhJCoIblOspS3hKEnczsbg1cRdzGMVPc3rxmQu72dBgvVoPlLJciLgDlPdoQNl4pWeyisBYJ8/9KQWNBmVGPPp+uiJESeRQtquKT3hKuANpQlY32sWjIc0KWHjjK3iA==" FormaPago="99" NoCertificado="00001000000503959252" Certificado="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" CondicionesDePago="Contado" SubTotal="60292.00" Total="69938.72" Exportacion="01" MetodoPago="PPD" TipoDeComprobante="I" Moneda="MXN" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" TipoCambio="1" LugarExpedicion="44380" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:catCFDI="http://www.sat.gob.mx/sitio_internet/cfd/catalogos" xmlns:tdCFDI="http://www.sat.gob.mx/sitio_internet/cfd/tipoDatos/tdCFDI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cfdi:Emisor Rfc="LJA870102KE4" Nombre="LABORATORIOS JALOMA" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="AMA200715MW6" Nombre="AMASALUD" DomicilioFiscalReceptor="97302" RegimenFiscalReceptor="601" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="42281600" Cantidad="2.0" Unidad="CR" ClaveUnidad="X4G" NoIdentificacion="131749" Descripcion="Iodopovidona Espuma 3.5 L Mercado Hosp. Privado. Marca Jaloma Lote: 0071042 FechaFab:24/04/2023 FechaCad: 24/04/2025" ValorUnitario="874" Importe="1748.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1748.00" Impuesto="002" TipoFactor="Tasa" Importe="279.68" TasaOCuota="0.160000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42281603" Cantidad="2.0" Unidad="CR" ClaveUnidad="X4G" NoIdentificacion="131756" Descripcion="Glutaraldehido Jaloma caja con 6 piezas Lote: 0085495 FechaFab:30/10/2023 FechaCad: 30/10/2025" ValorUnitario="720" Importe="1440.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1440.00" Impuesto="002" TipoFactor="Tasa" Importe="230.40" TasaOCuota="0.160000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42281600" Cantidad="1.0" Unidad="CR" ClaveUnidad="X4G" NoIdentificacion="131735" Descripcion="Jalomadine Espuma, frasco 120 ml. Lote: 0077568 FechaFab:27/06/2023 FechaCad: 27/06/2025" ValorUnitario="820" Importe="820.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="820.00" Impuesto="002" TipoFactor="Tasa" Importe="131.20" TasaOCuota="0.160000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42281600" Cantidad="1.0" Unidad="CR" ClaveUnidad="X4G" NoIdentificacion="131740" Descripcion="Jalomadine Solución, frasco 120 ml. Lote: 0069962 FechaFab:21/03/2023 FechaCad: 21/03/2025" ValorUnitario="820" Importe="820.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="820.00" Impuesto="002" TipoFactor="Tasa" Importe="131.20" TasaOCuota="0.160000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42141501" Cantidad="1.0" Unidad="CR" ClaveUnidad="X4G" NoIdentificacion="107640" Descripcion="Algodon Facial bolsa c/100 pzas. Lote: 04FB23 FechaFab:04/12/2023 FechaCad: 04/12/2028" ValorUnitario="1008" Importe="1008.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1008.00" Impuesto="002" TipoFactor="Tasa" Importe="161.28" TasaOCuota="0.160000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42141501" Cantidad="20.0" Unidad="CR" ClaveUnidad="X4G" NoIdentificacion="107630" Descripcion="Algodon Absorbente Plisado 300 gr. Lote: 01BV23 FechaFab:11/11/2023 FechaCad: 11/01/2028" ValorUnitario="1050" Importe="21000.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="21000.00" Impuesto="002" TipoFactor="Tasa" Importe="3360.00" TasaOCuota="0.160000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42311511" Cantidad="1.0" Unidad="CR" ClaveUnidad="X4G" NoIdentificacion="123175" Descripcion="Gasa 10 x 10 cm. Exh. c/100 sobres Jaloma Lote: 0321G13 FechaFab:23/10/2023 FechaCad: 23/10/2028" ValorUnitario="2808" Importe="2808.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2808.00" Impuesto="002" TipoFactor="Tasa" Importe="449.28" TasaOCuota="0.160000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42311500" Cantidad="1.0" Unidad="CR" ClaveUnidad="X4G" NoIdentificacion="131617" Descripcion="Venditas Adhesivas CureBand caja c/100 piezas Lote: 2302011 FechaFab:02/02/2023 FechaCad: 02/02/2027" ValorUnitario="2500" Importe="2500.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2500.00" Impuesto="002" TipoFactor="Tasa" Importe="400.00" TasaOCuota="0.160000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42311500" Cantidad="2.0" Unidad="CR" ClaveUnidad="X4G" NoIdentificacion="131611" Descripcion="Venditas adhesivas CureBand premium de Pixar (12 x 20 pzas c/u) Lote: 2309083 FechaFab:24/06/2023 FechaCad: 24/06/2027" ValorUnitario="336" Importe="672.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="672.00" Impuesto="002" TipoFactor="Tasa" Importe="107.52" TasaOCuota="0.160000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42281600" Cantidad="2.0" Unidad="CR" ClaveUnidad="X4G" NoIdentificacion="131528" Descripcion="Jaloma Agua oxigenada (25 x 480 mL) Lote: 0084244 FechaFab:11/10/2023 FechaCad: 11/10/2025" ValorUnitario="300" Importe="600.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="600.00" Impuesto="002" TipoFactor="Tasa" Importe="96.00" TasaOCuota="0.160000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42281600" Cantidad="2.0" Unidad="CR" ClaveUnidad="X4G" NoIdentificacion="131309" Descripcion="Jaloma 360 Solucion Antiseptica (6x150ml) Lote: 0086323 FechaFab:10/11/2023 FechaCad: 10/11/2025" ValorUnitario="642" Importe="1284.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1284.00" Impuesto="002" TipoFactor="Tasa" Importe="205.44" TasaOCuota="0.160000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42281600" Cantidad="5.0" Unidad="CR" ClaveUnidad="X4G" NoIdentificacion="131306" Descripcion="Jaloma 360 Solución Antiséptica (4 x 5L) Lote: 0081801 FechaFab:06/09/2023 FechaCad: 06/09/2025" ValorUnitario="1892" Importe="9460.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="9460.00" Impuesto="002" TipoFactor="Tasa" Importe="1513.60" TasaOCuota="0.160000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42312400" Cantidad="1.0" Unidad="CR" ClaveUnidad="X4G" NoIdentificacion="135105" Descripcion="Botiquin Lote: 0089369 FechaFab:30/11/2023 FechaCad: 30/10/2025" ValorUnitario="712" Importe="712.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="712.00" Impuesto="002" TipoFactor="Tasa" Importe="113.92" TasaOCuota="0.160000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42312400" Cantidad="1.0" Unidad="CR" ClaveUnidad="X4G" NoIdentificacion="135109" Descripcion="Botiquin Caja plastica, marca Jaloma Lote: 0087695 FechaFab:28/10/2023 FechaCad: 28/09/2025" ValorUnitario="920" Importe="920.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="920.00" Impuesto="002" TipoFactor="Tasa" Importe="147.20" TasaOCuota="0.160000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42281600" Cantidad="1.0" Unidad="CR" ClaveUnidad="X4G" NoIdentificacion="131750" Descripcion="Iodopovidona Solución 3.5 L Mercado Hosp. Privado. Marca Jaloma Lote: 0081905 FechaFab:09/09/2023 FechaCad: 09/09/2025" ValorUnitario="920" Importe="920.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="920.00" Impuesto="002" TipoFactor="Tasa" Importe="147.20" TasaOCuota="0.160000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42281600" Cantidad="1.0" Unidad="CR" ClaveUnidad="X4G" NoIdentificacion="131750" Descripcion="Iodopovidona Solución 3.5 L Mercado Hosp. Privado. Marca Jaloma Lote: 0081911 FechaFab:12/09/2023 FechaCad: 12/09/2025" ValorUnitario="920" Importe="920.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="920.00" Impuesto="002" TipoFactor="Tasa" Importe="147.20" TasaOCuota="0.160000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42281600" Cantidad="1.0" Unidad="CR" ClaveUnidad="X4G" NoIdentificacion="131308" Descripcion="Jaloma 360 Solución Antiséptica (9x100ml) Lote: 0089438 FechaFab:02/12/2023 FechaCad: 02/12/2025" ValorUnitario="774" Importe="774.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="774.00" Impuesto="002" TipoFactor="Tasa" Importe="123.84" TasaOCuota="0.160000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42281600" Cantidad="1.0" Unidad="CR" ClaveUnidad="X4G" NoIdentificacion="131308" Descripcion="Jaloma 360 Solución Antiséptica (9x100ml) Lote: 0085560 FechaFab:28/10/2023 FechaCad: 28/10/2025" ValorUnitario="774" Importe="774.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="774.00" Impuesto="002" TipoFactor="Tasa" Importe="123.84" TasaOCuota="0.160000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42311511" Cantidad="1.0" Unidad="CR" ClaveUnidad="X4G" NoIdentificacion="123180" Descripcion="Jaloma Gasa 10 x 10 cm, bolsa c/200 pzas (24 bolsas x caja) Lote: 46231 FechaFab:29/11/2023 FechaCad: 08/11/2028" ValorUnitario="2160" Importe="2160.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2160.00" Impuesto="002" TipoFactor="Tasa" Importe="345.60" TasaOCuota="0.160000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42311511" Cantidad="3.0" Unidad="CR" ClaveUnidad="X4G" NoIdentificacion="123180" Descripcion="Jaloma Gasa 10 x 10 cm, bolsa c/200 pzas (24 bolsas x caja) Lote: 43232 FechaFab:01/10/2023 FechaCad: 01/10/2028" ValorUnitario="2160" Importe="6480.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6480.00" Impuesto="002" TipoFactor="Tasa" Importe="1036.80" TasaOCuota="0.160000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42311511" Cantidad="1.0" Unidad="CR" ClaveUnidad="X4G" NoIdentificacion="123180" Descripcion="Jaloma Gasa 10 x 10 cm, bolsa c/200 pzas (24 bolsas x caja) Lote: 45232 FechaFab:16/11/2023 FechaCad: 16/11/2028" ValorUnitario="2160" Importe="2160.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2160.00" Impuesto="002" TipoFactor="Tasa" Importe="345.60" TasaOCuota="0.160000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="42311511" Cantidad="2.0" Unidad="CR" ClaveUnidad="X4G" NoIdentificacion="123142" Descripcion="Gasa 7.5x5 Caja con 10pzas. Lote: 0121G19 FechaFab:29/01/2021 FechaCad: 29/01/2026" ValorUnitario="156" Importe="312.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="312.00" Impuesto="002" TipoFactor="Tasa" Importe="49.92" TasaOCuota="0.160000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="9646.72">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" Importe="9646.72" Base="60292.00" TipoFactor="Tasa" TasaOCuota="0.160000" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital Version="1.1" UUID="C3F2B22A-21E2-4E1C-85A3-37C52236BBF4" FechaTimbrado="2023-12-19T12:47:01" RfcProvCertif="INT020124V62" SelloCFD="D7R1l9oVHvkeOoWHlq0gB+i/Ry8B/qUrVkCFAcCT/bcq+MDhGmy0PmP7mpa3SaAnkZaMlepjHkbn00M71wh/CRlzgMUQgcTGfnyUxT8ZZV2mRMN33U71C8cc9ZhHt7pN94dhQ99y3u/XchIlE7RXM53xcbUs3cTi+Z5BR5Qar+S1w1CN+H4hEQ3+QMmoPFV5eUCe+wmsj5jpb8w518Wx14JEhJCoIblOspS3hKEnczsbg1cRdzGMVPc3rxmQu72dBgvVoPlLJciLgDlPdoQNl4pWeyisBYJ8/9KQWNBmVGPPp+uiJESeRQtquKT3hKuANpQlY32sWjIc0KWHjjK3iA==" NoCertificadoSAT="00001000000505211329" SelloSAT="hsmPFzTM+aQ4gMXoKS4vq9nGU7WgxPEKjX3v8XN7qe8IRhDm6xESdxgjcEjBsSI4vq+sUJkIGTp40O9KLrt7F7PVa5j1EhOOQiqDCPlD9ZR1SK4mXSNj+3L5pNtLyOFv4Y8w5gBjY5hDnG6JdlmNuR9U2IEJT2UHtvt5N/QtNCG05pY9EbRraMPqOc+IV0F0VsjEYtk3WmfW3mFKplZrGYfKticxGoFM3T9jMm6HNoYS/jU6fL80C666O01CjiWG6Hp5serSGan5N9MnAAxEJ0TUNq8BgbfkdUkSiRDWZ7FMgETtfw1CiaUHSb9lftEWbMGS2uI65Q2zk0IwwEBkcg==" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
