@@ -6,14 +6,6 @@ $TOKEN='fcW8qmZMD28Lqu83mY6RveZV';
 
 
 
-
-
-
-
-echo "Febrero2024fcW8qmZMD28Lqu83mY6RveZV exith";
-
-//exit();
-
 define("SOAP_CLIENT_BASEDIR", "Toolkit20/soapclient");
 require_once (SOAP_CLIENT_BASEDIR.'/SforcePartnerClient.php');
 echo "angel again";
